@@ -1,0 +1,16 @@
+/dist/
+# Les fichiers générés par l'environnement de développement (Eclipse, IntelliJ, NetBeans, etc.)
+.classpath
+.project
+.settings/
+
+# Les fichiers binaires générés
+bin/
+
+# Les fichiers de configuration spécifiques à votre IDE
+.idea/
+
+# Les fichiers de sauvegarde et les fichiers temporaires
+*.bak
+*.swp
+*~
